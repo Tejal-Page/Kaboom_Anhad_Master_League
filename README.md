@@ -1,2 +1,2 @@
-# Kaboom_Anhad_Master_League
-Game developed for Mater League
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
